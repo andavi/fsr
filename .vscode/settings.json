@@ -1,4 +1,5 @@
 {
   "editor.tabSize": 2,
-  "editor.bracketPairColorization.enabled": true
+  "editor.bracketPairColorization.enabled": true,
+  "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
